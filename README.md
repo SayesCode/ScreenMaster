@@ -1,2 +1,0 @@
-# ScreenMaster
-ScreenMaster by Sayes
